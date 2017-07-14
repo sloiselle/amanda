@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 80px;
+  transform: rotate(-22.5deg);
+}
+
+.App-header {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  background: #D9FFF0;
+  color: black;
+  font-size: 28px;
+  font-family: 'Sacramento', cursive;
+  padding-top: 20px;
+}
+
+.App-text {
+  display: inline-block;
+  margin: 0;
+}
+
+.App-text-firstLetter {
+  font-size: 150%;
+}
+
+.App-intro {
+  font-size: large;
+}
