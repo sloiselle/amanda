@@ -1,20 +1,30 @@
 {
-  "name": "amanda-crafts",
+  "name": "create-react-app-redux",
   "version": "0.1.0",
   "private": true,
-  "dependencies": {
-    "firebase": "^4.0.0",
-    "folder-walker": "^3.1.0",
-    "react": "^15.5.4",
-    "react-dom": "^15.5.4"
-  },
   "devDependencies": {
-    "react-scripts": "1.0.1"
+    "react-scripts": "^1.0.10"
+  },
+  "dependencies": {
+    "axios": "^0.16.2",
+    "cloudinary-react": "^1.0.4",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-dropzone": "^3.13.3",
+    "react-redux": "^5.0.5",
+    "react-router": "^4.1.1",
+    "react-router-dom": "^4.1.1",
+    "react-router-redux": "next",
+    "redux": "^3.6.0",
+    "redux-thunk": "^2.2.0",
+    "sanitize.css": "^5.0.0",
+    "superagent": "^3.5.2"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "homepage": "https://cra-redux-router-thunk.herokuapp.com"
 }

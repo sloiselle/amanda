@@ -1,0 +1,12 @@
+.NotAdmin {
+	background: url(https://i.ytimg.com/vi/uzLml7JdQDQ/maxresdefault.jpg);
+	height: 71vh;
+}
+
+.NotAdmin-header {
+	text-align: center;
+	color: white;
+	margin: 0;
+	font-size: 100px;
+	text-transform: uppercase;
+}

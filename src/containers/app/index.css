@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 80px;
+  transform: rotate(-22.5deg);
+}
+
+.App-header {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  background: #D9FFF0;
+  color: black;
+  font-size: 28px;
+  font-family: 'Sacramento', cursive;
+  padding-top: 20px;
+}
+
+.App-text {
+  display: inline-block;
+  margin: 0;
+  -webkit-user-select: none; /* Chrome/Safari */        
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* IE10+ */
+}
+
+.App-text-firstLetter {
+  font-size: 150%;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.Nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.Nav-text {
+  width: 20%;
+  height: 64px;
+  padding: 20px;
+  color: #2697F5;
+  background: #9CFED7;
+  text-decoration: none;
+  font-family: 'Milonga', cursive;
+  transition: all ease-in-out .2s;
+  text-align: center;
+}
+
+.Nav-text:hover {
+  color: #2697F5;
+  background: #A2D5FE;
+}
+
